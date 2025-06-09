@@ -52,8 +52,8 @@ import { decodeParam, formatDuration, formatFileSize } from "@/util";
 import DemoTagsInput from "./DemoTagsInput";
 import EventsList from "./EventsList";
 import Highlights from "./Highlights";
-import PlayerList from "./PlayerList";
 import PlayDemoButton from "./PlayDemoButton";
+import PlayerList from "./PlayerList";
 
 import classes from "./demoDetails.module.css";
 
